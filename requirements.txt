@@ -1,0 +1,9 @@
+Django==4.2.7
+django-cors-headers==4.3.1
+graphene==3.3
+graphene-django==3.1.5
+graphql-core==3.2.3
+graphql-relay==3.2.0
+pip==23.3.1
+gunicorn==20.1.0
+
